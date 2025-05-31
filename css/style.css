@@ -39,15 +39,20 @@ img{
 }
 
 
-.navbar .main-menu ul {
+.navbar ul {
     display: flex;
+    gap: 20px;
 }
 
 .navbar ul li a {
     padding: 10px 20px;
     display: block;
     font-weight: 600;
-    transition: 8.5s;
+    transition: 3.5s;
+}
+
+.navbar ul li a:hover{
+    color: #ff00b3;
 }
 
 /*Utility Classes*/
