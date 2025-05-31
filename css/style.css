@@ -8,14 +8,14 @@
 body{
     font-family: 'PT Serif', sans-serif;
     font-size: 16px;
-    font-color: #ff00b3
+    font-color: #c93f78;
     line-height: 1.5;
     background: #fff3fc;
 }
 
 a{
     text-decoration: none;
-    color: #ff00b3;
+    color: #c93f78;
 }
 
 ul{
@@ -52,7 +52,7 @@ img{
 }
 
 .navbar ul li a:hover{
-    color: #ff00b3;
+    color: #c93f78;
 }
 
 /*Utility Classes*/
