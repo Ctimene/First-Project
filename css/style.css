@@ -34,7 +34,7 @@ img{
 
 
 .navbar ul {
-    gap: 20px;
+    display: flex;
 }
 
 .navbar ul li a {
