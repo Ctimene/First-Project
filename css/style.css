@@ -8,13 +8,14 @@
 body{
     font-family: 'PT Serif', sans-serif;
     font-size: 16px;
+    font-color: #ff00b3
     line-height: 1.5;
-    background: #fff;
+    background: #fff3fc;
 }
 
 a{
     text-decoration: none;
-    color: #333;
+    color: #ff00b3;
 }
 
 ul{
