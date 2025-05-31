@@ -39,7 +39,7 @@ img{
 }
 
 
-.navbar .main-menu ul {
+.navbar ul {
     display: flex;
     gap: 20px;
 }
