@@ -32,14 +32,23 @@ img{
     padding: 20px;
 }
 
-navbar .container {
+.navbar .container {
     display: flex;
     justify-content: space-between;
     align-items: center;
 }
 
 
+.navbar .main-menu ul {
+    display: flex;
+}
 
+.navbar ul li a {
+    padding: 10px 20px;
+    display: block;
+    font-weight: 600;
+    transition: 8.5s;
+}
 
 /*Utility Classes*/
 .container {
