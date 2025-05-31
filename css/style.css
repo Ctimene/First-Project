@@ -28,7 +28,7 @@ img{
 
 /*Navbar*/
 .navbar {
-    background: #ffabe6;
+    background: #ffebf9;
     padding: 20px;
 }
 
@@ -41,6 +41,7 @@ img{
 
 .navbar ul {
     display: flex;
+    gap: 20px;
 }
 
 .navbar ul li a {
