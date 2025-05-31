@@ -48,7 +48,7 @@ img{
     padding: 10px 20px;
     display: block;
     font-weight: 600;
-    transition: 1s;
+    transition: 0.75s;
 }
 
 .navbar ul li a:hover{
