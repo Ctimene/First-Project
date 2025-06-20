@@ -49,6 +49,11 @@ img{
     color: #c93f78;
 }
 
+/*Hero Section*/
+.hero {
+    margin-bottom: 50px;
+}
+
 /*Utility Classes*/
 .container {
     margin: 0 auto;
@@ -95,4 +100,8 @@ img{
     line-height: 1.4;
     font-weight: normal;
     margin: 10px 0 5;
+}
+
+.text-center {
+    text-align: center;
 }
